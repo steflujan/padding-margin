@@ -1,0 +1,16 @@
+* {
+	box-sizing: border-box;
+	margin:0px;
+	padding:0px;
+}
+div {
+	width: 250px;
+	border-top: 5px solid orange;
+    border-right: 5px solid orange;
+    border-bottom: 5px solid orange;
+    border-left: 5px solid orange;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+}
